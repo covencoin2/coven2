@@ -1,0 +1,9 @@
+Building coven
+
+See doc/readme-qt.rst for instructions on building coven QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of coven.
+
+See doc/build-*.txt for instructions on building covend,
+the intended-for-services, no-graphical-interface, reference
+implementation of coven.
